@@ -87,7 +87,7 @@
 
 @implementation QLPreviewController (BlocksKit)
 
-@dynamic bk_frameForPreviewItem, bk_transitionImageForPreviewItem, bk_shouldOpenURLForPreviewItem, bk_willDismissBlock, bk_didDismissBlock;
+//@dynamic bk_frameForPreviewItem, bk_transitionImageForPreviewItem, bk_shouldOpenURLForPreviewItem, bk_willDismissBlock, bk_didDismissBlock;
 
 //+ (void)load
 //{
